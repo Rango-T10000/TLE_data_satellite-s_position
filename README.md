@@ -1,3 +1,7 @@
+Based on :https://github.com/Rango-T10000/tle
+This is a updated version.
+Before start, pip install sgp4
+
 # tle
 Two Line Element position calculator
 
